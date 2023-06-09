@@ -1,0 +1,18 @@
+.login,img{
+    background-image: url("https://www.bugatti.com/fileadmin/_processed_/sei/p1/se-image-c9424e1152cd71317f96406084727952.webp");
+      background-color: aqua;
+      color:black;
+      padding-left:30px;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      padding-right: 30px;
+      text-align: center;
+};
+.loginbox{
+    border: 10px solid green;
+    height: 314px;
+    width: 41%;
+    padding-top: 46px;
+    margin-left: 189px;
+
+}

@@ -1,0 +1,18 @@
+.signup,img{
+     background-image: url("https://www.bugatti.com/fileadmin/_processed_/sei/p1/se-image-c9424e1152cd71317f96406084727952.webp"); 
+      background-color:aqua;
+      color:black;
+      padding-left:40px;
+      padding-top: 40px;
+      padding-bottom: 100px;
+      padding-right: 40px;
+      text-align: center;
+};
+.signupbox{
+    border: 10px solid green;
+    height: 314px;
+    width: 41%;
+    padding-top: 46px;
+    margin-left: 189px; 
+
+}

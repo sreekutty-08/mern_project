@@ -1,0 +1,10 @@
+.main,img{
+    background-image: url("https://www.bugatti.com/fileadmin/_processed_/sei/p96/se-image-370d5095cf16ce30c77ae7080bc573cb.webp");
+    background-color: black;
+    color: blanchedalmond;
+    padding-left:30px ;
+    padding-top:30px ;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
